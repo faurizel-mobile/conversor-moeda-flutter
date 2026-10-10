@@ -691,4 +691,3 @@ Antes de usar em aula, verifique:
 ---
 
 **Criado para fins educacionais. Sinta-se livre para adaptar conforme sua necessidade!** 🎓
-
